@@ -5,7 +5,7 @@ A light-green theme for [Omarchy](https://omarchy.org) — soft, calm, botanical
 
 ![Omarchy](https://img.shields.io/badge/Omarchy-Veredas-5A8645)
 
-![Veredas on the desktop](preview.png)
+![Veredas theme preview](preview.png)
 
 ## Install
 
